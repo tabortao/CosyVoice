@@ -51,4 +51,4 @@ pretrained_models/*
 *_pb2.py
 *.tar
 
-py310/
+py310/*
